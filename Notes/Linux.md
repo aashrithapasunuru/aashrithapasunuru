@@ -6,3 +6,6 @@ files with "." are hidden files.
 --help will list of all possible commands.
 man command - manual pages. eg man ls - gives documentation of ls. 
 COMMANDS :  1) Touch - create file 2 )mkdir - make directory - create a folder 3) cp-copy-Copy a file or folder 4) mv-move-Move a file or folder 5)  rm-remove- Remove a file or folder 6) file	-file	-Determine the type of a  file. 
+To remove file or directory we will using command rm . The command -> rm -R filename . -R is switch. 
+su command- used to switch btw users on linux . Things to know 1) user we wish to switch 2) user password . It will previous user home directory. 
+-l or --login . When used after su command , it will show current user home directory. eg su -l username. 
