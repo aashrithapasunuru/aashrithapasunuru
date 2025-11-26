@@ -9,3 +9,8 @@ COMMANDS :  1) Touch - create file 2 )mkdir - make directory - create a folder 3
 To remove file or directory we will using command rm . The command -> rm -R filename . -R is switch. 
 su command- used to switch btw users on linux . Things to know 1) user we wish to switch 2) user password . It will previous user home directory. 
 -l or --login . When used after su command , it will show current user home directory. eg su -l username. 
+/etc: root directory -etc folder  - used by operating system. 
+/var: variable data - folder stores data frequently used by services or applications. 
+/root - root user home directory.
+/tmp -stores temporary data . Once  computer restarted, temp data will be cleared  out. It is  useful in pentesting , good place to store enumeration scripts. 
+
