@@ -13,4 +13,7 @@ su command- used to switch btw users on linux . Things to know 1) user we wish t
 /var: variable data - folder stores data frequently used by services or applications. 
 /root - root user home directory.
 /tmp -stores temporary data . Once  computer restarted, temp data will be cleared  out. It is  useful in pentesting , good place to store enumeration scripts. 
+nano command - create new file and write multiple lines text in it. CTRL+X to exit . It will ask save , type Y and click enter to exit. 
+VIM is similar to nano but has more advanced features and works on all terminals. Type I for insert mode and press esc to exit insert mode. https://vim.rtorr.com/ for VIM cheatsheet. 
+
 
