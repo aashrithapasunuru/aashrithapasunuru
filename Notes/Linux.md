@@ -17,6 +17,12 @@ su command- used to switch btw users on linux . Things to know 1) user we wish t
 nano command - create new file and write multiple lines text in it. CTRL+X to exit . It will ask save , type Y and click enter to exit. 
 VIM is similar to nano but has more advanced features and works on all terminals. Type I for insert mode and press esc to exit insert mode. https://vim.rtorr.com/ for VIM cheatsheet. In VIM, command or normal mode allows you to use the commands. 
 wget command allows us to download images /files via web. Eg: wget https://assets.tryhackme.com/additional/linux-fundamentals/part3/myfile.txt.
-scp command is used to securely copy files between devices using ssh protocol. eg: scp important.txt ubuntu@192.168.1.30:/home/ubuntu/transferred.txt
+**scp** command is used to securely copy files between devices using ssh protocol. eg: scp important.txt ubuntu@192.168.1.30:/home/ubuntu/transferred.txt. 
+ubuntu comes with python3.
+process are the  programs running in the machine. PID is the id of the program. The PID increments for the order In which the process starts. I.e. the 60th process will have a PID of 60. **PS** command to see the processes running. To see the processes run by other users and those that don't run from a session use **ps aux** command. 
+**top** gives you real-time statistics about the processes running on your system instead of a one-time view. 
+To kill a command we use **kill** . Eg : kill PID number. To exit top command , just press **q**. 
+**systemctl** -- this command allows us to interact with the systemd. syntx : **systemctl [option] [service]**. EG : systemctl start apache2. 
+
 
 
