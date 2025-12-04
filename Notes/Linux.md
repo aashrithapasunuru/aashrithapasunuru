@@ -19,10 +19,13 @@ VIM is similar to nano but has more advanced features and works on all terminals
 wget command allows us to download images /files via web. Eg: wget https://assets.tryhackme.com/additional/linux-fundamentals/part3/myfile.txt.
 **scp** command is used to securely copy files between devices using ssh protocol. eg: scp important.txt ubuntu@192.168.1.30:/home/ubuntu/transferred.txt. 
 ubuntu comes with python3.
-process are the  programs running in the machine. PID is the id of the program. The PID increments for the order In which the process starts. I.e. the 60th process will have a PID of 60. **PS** command to see the processes running. To see the processes run by other users and those that don't run from a session use **ps aux** command. 
+process are the  programs running in the machine. PID is the id of the program. The PID increments for the order In which the process starts. I.e. the 60th process will have a PID of 60. **PS** command to see the processes running. To see the processes run by other users and those that don't run from a session use **ps aux** command.  
 **top** gives you real-time statistics about the processes running on your system instead of a one-time view. 
 To kill a command we use **kill** . Eg : kill PID number. To exit top command , just press **q**. 
 **systemctl** -- this command allows us to interact with the systemd. syntx : **systemctl [option] [service]**. EG : systemctl start apache2. 
+CRON: schedule a certain action or task to take place. Crontab is one of the processes that is started during boot, which is responsible for facilitating and managing cron jobs. https://crontab.guru/ AND https://crontab-generator.org/  - Resources to generate cron  commands. 
+**apt** command is used to install software. When adding software, the integrity of what we download is guaranteed by the use of what is called GPG (Gnu Privacy Guard) keys. 
+
 
 
 
