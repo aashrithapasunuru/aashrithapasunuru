@@ -4,4 +4,7 @@
  **Censys**, on the other hand, focuses on Internet-connected hosts, websites, certificates, and other Internet assets. 
  **VirusTotal** is an online website that provides a virus-scanning service for files using multiple antivirus engines.
  **Have I Been Pwned (HIBP)** does one thing; it tells you if an email address has appeared in a leaked data breach.
- 
+  **https://www.nist.gov/**- quantum computing.
+  For more information and to search for existing CVEs, visit the CVE Program website. Alternatively, visit the National Vulnerability Database (NVD) website. 
+  https://www.exploit-db.com/ -exploit database site and GITHUB. 
+  
