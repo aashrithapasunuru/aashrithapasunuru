@@ -1,1 +1,4 @@
-
+Microsoft thinks about Identity while designing products and solutions. - **Zero Trust** : 1. Verify 2. Give only enough access to do their job 3. Assume breach. 
+**Verify Explicitly**Always validate all available data points including:User identity and location,Anomalies, Data classification, Device Health, Service or workload context. 
+**Use least privilege access** :To help secure both data and productivity, limit user access using: Just-in-time (JIT), Just enough access (JEA) , Risk-based adaptive policies, Data classification	Data protection against out of band vectors	. 
+**Assume breach** : Minimize blast radius for breaches and prevent lateral movement by:Segmenting access by network, user, devices, and app awareness, Encrypting all sessions end to end, Use analytics for threat detection, posture visibility and improving defenses. 
