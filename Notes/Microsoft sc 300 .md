@@ -7,3 +7,4 @@ Identity and access management and endpoint-management solutions enables your or
 Information protection and cloud security solutions help enforce decisions and protect resources across the entire environment in real time. Networking solutions help use real-time threat protection to detect and respond to threats across your networks and infrastructure.
 Finally, the integrated security information and event management (SIEM) and extended detection and response (XDR) solutions to deliver true, end-to-end threat prevention, detection, and response.
 Identity as the control panel for accessing resources. 
+An identity provider (IdP) is a system that creates, manages and stores digital identities. Microsoft Entra ID is an example.
