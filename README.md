@@ -15,6 +15,4 @@ Aspiring SOC Analyst / IAM Analyst with IT Help Desk experience transitioning in
 - Azure Security Basics
 
 ## Projects
-- SOC Home Lab
-- Linux Log Analysis
-- Active Directory Lab
+
