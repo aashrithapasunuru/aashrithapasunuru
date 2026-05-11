@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Aashritha 👋
 
-<!--
-**aashrithapasunuru/aashrithapasunuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring SOC Analyst / IAM Analyst with IT Help Desk experience transitioning into Cybersecurity.
 
-Here are some ideas to get you started:
+## Skills
+- Networking
+- Linux
+- Active Directory
+- SIEM
+- IAM Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+- Splunk
+- TryHackMe SOC Level 1
+- Azure Security Basics
+
+## Projects
+- SOC Home Lab
+- Linux Log Analysis
+- Active Directory Lab
