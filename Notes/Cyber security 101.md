@@ -1,15 +1,14 @@
- cryptographic method or product considered bogus or fraudulent- snake oil.
- **socket statitics(ss)** command replace for netstat in linux.
- **Shodan**, a search engine for devices connected to the Internet. It allows you to search for specific types and versions of servers, networking equipment, industrial control systems, and IoT devices.
- **Censys**, on the other hand, focuses on Internet-connected hosts, websites, certificates, and other Internet assets. 
- **VirusTotal** is an online website that provides a virus-scanning service for files using multiple antivirus engines.
- **Have I Been Pwned (HIBP)** does one thing; it tells you if an email address has appeared in a leaked data breach.
-  **https://www.nist.gov/**- quantum computing.
-  For more information and to search for existing CVEs, visit the CVE Program website. Alternatively, visit the National Vulnerability Database (NVD) website. 
-  https://www.exploit-db.com/ -exploit database site and GITHUB. 
-  
-**Offensive Security**: It is an approach to find possible security threats by exploiting the system . dirb is the command to check the hidden urls. syn : dirb url.
-**Defensive Security**: Also knowns as blue team.  1: Monitoring and Detecting : continuously observing network and system activity to detect suspicious behaviour. 2: Incidence Response : Containing and removing threats and restoring business normally. 3. Threat Intelligence : Gathering and using information about attackers—their latest methods, targets, and trends—can greatly strengthen an organisation’s defences. 4. Vulnerability Management: fixing system and software flaws to avoid/lower threats . 5. Investigation and analysis : members of the teams always monitoring and analysing whats happening inside the organisation. **Defensive Measures** : Employee training, IDS( Intrusion detection system) : Acts like surveillance camera. Monitor and alert when suspicios activity occured. Firewall, Security policies. 
-SIEMs (Security Information and Event Management) systems are the central place for all data and information collected from security devices, workstations, servers, and more within an organisation.
+ -cryptographic method or product considered bogus or fraudulent- snake oil.
+ -**socket statitics(ss)** command replace for netstat in linux.
+ -**Shodan**, a search engine for devices connected to the Internet. It allows you to search for specific types and versions of servers, networking equipment, industrial control systems, and IoT devices.
+ -**Censys**, on the other hand, focuses on Internet-connected hosts, websites, certificates, and other Internet assets. 
+ -**VirusTotal** is an online website that provides a virus-scanning service for files using multiple antivirus engines.
+ -**Have I Been Pwned (HIBP)** does one thing; it tells you if an email address has appeared in a leaked data breach.
+ - **https://www.nist.gov/**- quantum computing.
+ - For more information and to search for existing CVEs, visit the CVE Program website. Alternatively, visit the National Vulnerability Database (NVD) website. 
+ - https://www.exploit-db.com/ -exploit database site and GITHUB.
+ - **Offensive Security**: It is an approach to find possible security threats by exploiting the system . dirb is the command to check the hidden urls. syn : dirb url.
+-##**Defensive Security**: Also knowns as blue team.  -1: Monitoring and Detecting : continuously observing network and system activity to detect suspicious behaviour. -2: Incidence Response : Containing and removing threats and restoring business normally. -3. Threat Intelligence : Gathering and using information about attackers—their latest methods, targets, and trends—can greatly strengthen an organisation’s defences. -4. Vulnerability Management: fixing system and software flaws to avoid/lower threats . -5. Investigation and analysis : members of the teams always monitoring and analysing whats happening inside the organisation. **Defensive Measures** : Employee training, IDS( Intrusion detection system) : Acts like surveillance camera. Monitor and alert when suspicios activity occured. Firewall, Security policies. 
+-SIEMs (Security Information and Event Management) systems are the central place for all data and information collected from security devices, workstations, servers, and more within an organisation.
 
  
