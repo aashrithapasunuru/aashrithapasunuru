@@ -14,4 +14,30 @@
 - Router at layer 3 of OSI model and switch  at layer2 of OSI model.
 - A VPN (Virtual Private Network) creates a secure encrypted tunnel between your device and another network over the internet.
 - A firewall is a security system that controls network traffic based on rules. The key difference between stateful and stateless firewalls is how they track connections. A stateless firewall treats each packet independently, without remembering anything about previous packets. A stateful firewall keeps track of active connections and makes decisions based on the state of the connection.
- 
+- User opens website
+        ↓
+Internet
+        ↓
+Company Router
+        ↓
+Port forwarding rule
+        ↓
+Internal Web Server
+- Port forwarding = router sending internet traffic to a specific device inside local network.
+- Roouter forwards the packet containing IP address and data. Switch adds mac address to the  packet (frame ) and forward it to right PC.
+- Handshake process - syn-ack/syn-ack-fin.
+- gTLD- Generic top level domain -.com, .ed etc. ccTLD-Country code top level domain - .ca, .co.uk etc.
+- Second Level Domain - eg tryhackme.com - tryhackme is the second level domain . Second level domain+TLD . Can use a-z 0-9 and hyphen.Limit -63 characters.
+- admin.tryhackme.com - admin is the subdomain. 63 characters limit and 253 characters in length.
+- A DNS record tells: where a website/server is located, which mail server to use, which services belong to a domain. 
+ | Record Type | Purpose                 |
+| ----------- | ----------------------- |
+| A           | Domain → IPv4           |
+| AAAA        | Domain → IPv6           |
+| CNAME       | Alias to another domain |
+| MX          | Mail server             |
+| NS          | Name server             |
+| PTR         | IP → Domain             |
+| TXT         | Text/security info      |
+
+- 
