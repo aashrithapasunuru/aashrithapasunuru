@@ -40,4 +40,21 @@ Internal Web Server
   | PTR | IP → Domain |
   | TXT | Text/security info |
 
-- 
+- **Why DNS Records Matter in Cybersecurity**
+
+- SOC Analysts often investigate:
+- malicious domains
+- suspicious DNS traffic
+- phishing domains
+- SPF/DKIM issues
+- DNS tunneling attacks
+
+- **Why DNS Requests Matter in Cybersecurity**
+
+SOC Analysts monitor DNS requests because attackers may use:
+- malicious domains
+- phishing websites
+- DNS tunneling
+-malware communication
+
+Suspicious DNS traffic is a very common investigation area in SOC roles.
