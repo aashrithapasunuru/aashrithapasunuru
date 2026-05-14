@@ -30,7 +30,7 @@ Internal Web Server
 - Second Level Domain - eg tryhackme.com - tryhackme is the second level domain . Second level domain+TLD . Can use a-z 0-9 and hyphen.Limit -63 characters.
 - admin.tryhackme.com - admin is the subdomain. 63 characters limit and 253 characters in length.
 - A DNS record tells: where a website/server is located, which mail server to use, which services belong to a domain. 
--| Record Type| Purpose |
+- | Record Type| Purpose |
  | ----------- |------- |
 | A | Domain → IPv4 |
 | AAAA | Domain → IPv6 |
