@@ -58,3 +58,23 @@ SOC Analysts monitor DNS requests because attackers may use:
 -malware communication
 
 Suspicious DNS traffic is a very common investigation area in SOC roles.
+
+
+-Browser
+   ↓
+Local Cache
+   ↓
+DNS Resolver
+   ↓
+Root Server
+   ↓
+TLD Server (.com)
+   ↓
+Authoritative DNS Server
+   ↓
+IP Address Returned
+   ↓
+Browser Opens Website
+
+
+
