@@ -31,13 +31,13 @@ Internal Web Server
 - admin.tryhackme.com - admin is the subdomain. 63 characters limit and 253 characters in length.
 - A DNS record tells: where a website/server is located, which mail server to use, which services belong to a domain. 
 - | Record Type| Purpose |
- | ----------- |------- |
-| A | Domain → IPv4 |
-| AAAA | Domain → IPv6 |
-| CNAME | Alias to another domain |
-| MX | Mail server |
-| NS | Name server |
-| PTR | IP → Domain |
-| TXT | Text/security info |
+  | ----------- |------- |
+  | A | Domain → IPv4 |
+  | AAAA | Domain → IPv6 |
+  | CNAME | Alias to another domain |
+  | MX | Mail server |
+  | NS | Name server |
+  | PTR | IP → Domain |
+  | TXT | Text/security info |
 
 - 
