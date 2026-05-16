@@ -117,13 +117,22 @@ Problem occurred on the server side.
 
 Server temporarily unavailable or overloaded.
 
-- 🔁 Status Code Categories
-- **Range	Meaning**
+- 🔁 **Status Code Categories Range	Meaning**
 - 1xx	Informational
 - 2xx	Success
 - 3xx	Redirection
 - 4xx	Client errors
 - 5xx	Server errors
+
+- **Why Status Codes Matter in Cybersecurity**
+
+SOC Analysts and security teams monitor status codes because:
+
+many 401/403 errors may indicate attack attempts
+repeated 404 requests may indicate scanning
+500 errors may reveal server problems
+
+Attackers often generate suspicious HTTP responses during reconnaissance.
 
 
 
