@@ -129,7 +129,9 @@ Server temporarily unavailable or overloaded.
 SOC Analysts and security teams monitor status codes because:
 
 many 401/403 errors may indicate attack attempts
+
 repeated 404 requests may indicate scanning
+
 500 errors may reveal server problems
 
 Attackers often generate suspicious HTTP responses during reconnaissance.
