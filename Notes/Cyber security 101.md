@@ -76,5 +76,54 @@ IP Address Returned
    ↓
 Browser Opens Website
 
+- A hypervisor is the core technology behind virtualization. It's the software that creates and manages virtual machines.
+- An HTTP status code is a number sent by a web server to tell the client (browser/app) what happened with the request. When your browser requests a webpage, the server responds with: data/content and a status code.
+- 🔹 Common HTTP Status Codes
+✅ 200 OK
+
+Request successful.
+
+Website loaded properly.
+
+🔀 301 Moved Permanently
+
+Website/page moved to another URL.
+
+Browser gets redirected automatically.
+
+❌ 400 Bad Request
+
+The request was invalid.
+
+🔒 401 Unauthorized
+
+Login/authentication required.
+
+🚫 403 Forbidden
+
+Server understood request but refuses access.
+
+🔍 404 Not Found
+
+Page does not exist.
+
+Very common error.
+
+⚠️ 500 Internal Server Error
+
+Problem occurred on the server side.
+
+🔧 503 Service Unavailable
+
+Server temporarily unavailable or overloaded.
+
+🔁 Status Code Categories
+Range	Meaning
+1xx	Informational
+2xx	Success
+3xx	Redirection
+4xx	Client errors
+5xx	Server errors
+
 
 
