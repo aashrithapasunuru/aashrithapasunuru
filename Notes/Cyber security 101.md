@@ -137,4 +137,33 @@ repeated 404 requests may indicate scanning
 Attackers often generate suspicious HTTP responses during reconnaissance.
 
 
+**HTTP REQUEST**
+-GET Request
+
+This is used for getting information from a web server.
+
+-POST Request
+
+This is used for submitting data to the web server and potentially creating new records
+
+-PUT Request
+
+This is used for submitting data to a web server to update information
+
+- DELETE Request
+
+This is used for deleting information/records from a web server.
+
+**SOC analysts monitor**
+suspicious POST requests (data exfiltration)
+
+malicious GET requests
+
+web attacks
+
+API traffic
+
+
+
+
 
