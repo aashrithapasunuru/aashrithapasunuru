@@ -163,6 +163,31 @@ web attacks
 
 API traffic
 
+- User Space
+
+Area where normal applications run with limited permissions.
+
+- Kernel Space
+
+Protected area where the operating system core runs with full hardware access.
+
+Real Cybersecurity Relevance
+
+**Attackers try to gain**:
+
+- kernel-level access
+- root privileges/rootkits
+- Kernel exploits are very dangerous because they can control the whole system.
+
+**SOC and security teams monitor**:
+
+- privilege escalation
+- kernel attacks
+- suspicious system calls/activity
+- unsigned drivers
+- 
+
+
 
 
 
