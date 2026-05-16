@@ -118,7 +118,7 @@ Problem occurred on the server side.
 Server temporarily unavailable or overloaded.
 
 - 🔁 Status Code Categories
-**Range	Meaning**
+- **Range	Meaning**
 - 1xx	Informational
 - 2xx	Success
 - 3xx	Redirection
