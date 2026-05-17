@@ -26,6 +26,13 @@
 - CRON: schedule a certain action or task to take place. Crontab is one of the processes that is started during boot, which is responsible for facilitating and managing cron jobs. https://crontab.guru/ AND https://crontab-generator.org/  - Resources to generate cron  commands. 
 - **apt** command is used to install software. When adding software, the integrity of what we download is guaranteed by the use of what is called GPG (Gnu Privacy Guard) keys.
 - **pwd**(print working directory) - means "show me the folder I'm currently in".
+- ls- list of folders in current directory.
+- ls -l details of folders in current directory.
+- ls -al  it will display all the hidden files present in the directory. Hidden files start with .(dot).
+- cd change directory or files. eg : cd Documents
+- 
+- 
+- 
 - 
 
 
