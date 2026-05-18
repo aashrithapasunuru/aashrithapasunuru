@@ -30,6 +30,11 @@
 - ls -l details of folders in current directory.
 - ls -al  it will display all the hidden files present in the directory. Hidden files start with .(dot).
 - cd change directory or files. eg : cd Documents
+- cat  : to read the content of the files . eg : cat filename
+- uname : operating system name
+- uname -a : To see details about the operating system, kernel version, and architecture.
+- df -h : to check disk usage or available space.
+- Linux stores configuration and informational files in the /etc directory.
 - 
 - 
 - 
