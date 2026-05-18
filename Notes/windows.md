@@ -9,4 +9,12 @@
 - C:\Users\bhara\AppData\Roaming\Microsoft\Windows\Start Menu\Programs - to look programs that start after computer boot up.
 - netstat - command will display protocol statistics and current TCP/IP network connections. If you type net without a sub-command, the output will show the syntax for the root command showing a few of the sub-commands you can use.
 - regedit- registry editor.
-- The Volume Shadow Copy Service (VSS) coordinates the required actions to create a consistent shadow copy (also known as a snapshot or a point-in-time copy) of the data that is to be backed up. 
+- The Volume Shadow Copy Service (VSS) coordinates the required actions to create a consistent shadow copy (also known as a snapshot or a point-in-time copy) of the data that is to be backed up.
+- cd : change directory
+- dir: list of  items in directory
+- dir /a : All items in the directory including the hidden files.
+- type Filename :  To view content in the file.
+- hostname : name of the computer.
+- systeminfo: details of the operating system.
+- ipconfig : basic network information.
+- 
