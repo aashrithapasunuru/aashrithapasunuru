@@ -35,6 +35,8 @@
 - uname -a : To see details about the operating system, kernel version, and architecture.
 - df -h : to check disk usage or available space.
 - Linux stores configuration and informational files in the /etc directory.
+- ssh username@ipaddress: To login as user and connect to computer using secure shell(ssh) .  eg : ss aashritha@1.1.1.1. This is used to connect computer remotely, run linux 
+- su username(other) - to login as anotherusername in the same computer.
 - 
 - 
 - 
