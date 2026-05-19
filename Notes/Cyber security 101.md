@@ -187,7 +187,7 @@ Real Cybersecurity Relevance
 - unsigned drivers
 
 
-- 
+- **NAT( Network address translation)**  is a method where your router translates private IP addresses into one public IP address for internet communication.
 
 
 
