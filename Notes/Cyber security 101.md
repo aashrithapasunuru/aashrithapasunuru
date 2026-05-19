@@ -188,6 +188,12 @@ Real Cybersecurity Relevance
 
 
 - **NAT( Network address translation)**  is a method where your router translates private IP addresses into one public IP address for internet communication.
+- Octal system - base 8 - 0 to 7
+- binary system - base 2- 1 or 0
+- Decimal system - base 10 - 0 to 9
+- Hexadecimal system- base 16- 0 to F. Every 4 binary digits (bits) can be grouped as one hexadecimal digit.
+- Colors-- RGB- RED ,GREEN ,BLUE.
+- 
 
 
 
