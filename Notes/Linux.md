@@ -37,8 +37,14 @@
 - Linux stores configuration and informational files in the /etc directory.
 - ssh username@ipaddress: To login as user and connect to computer using secure shell(ssh) .  eg : ss aashritha@1.1.1.1. This is used to connect computer remotely, run linux 
 - su username(other) - to login as anotherusername in the same computer.
-- 
-- 
+- **gobuster** - This fast directory/file and DNS brute-forcing tool helps in web security testing. It runs in terminal and automates in scanning web pages. syn gobuster dir -u http://example.com -w /path/to/wordlist.txt.  eg :
+- “The grep command is used to search for specific words, text, or patterns inside files or command output.” eg: grep error logfile.txt.
+- cd .. : go one level back.
+- cd~ : go to home director
+- find -name filename.txt : It will find the location of the text file. If we don't know the name of the file then use command find -name *.txt, it will provide all text files with path.
+- wc filename : It counts lines , words and characters in the file. If we want lines only then w -l filename is the command. w -w filename : word count . w -m filename : character counter . w -c filename : bytes count.
+- cat filename | wc -w  : Combined commands . First it gives output for first command and input of  the second command. | is called the pipe.
+- grep -R "text" . : searches for text in all files /folders in current directory /folder. 
 - 
 - 
 
