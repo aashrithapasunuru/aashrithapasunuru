@@ -45,6 +45,11 @@
 - wc filename : It counts lines , words and characters in the file. If we want lines only then w -l filename is the command. w -w filename : word count . w -m filename : character counter . w -c filename : bytes count.
 - cat filename | wc -w  : Combined commands . First it gives output for first command and input of  the second command. | is called the pipe.
 - grep -R "text" . : searches for text in all files /folders in current directory /folder. 
+- touch filename.txt - To create new text file.
+- nano filename.txt - To create and edit text file. If the file is already existed , it will let you to edit the file.
+- lo      → internal system only
+- enp0s3  → internet connection (important)
+- inet    → your IP address
 - 
 - 
 
