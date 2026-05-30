@@ -50,6 +50,8 @@
 - lo      → internal system only
 - enp0s3  → internet connection (important)
 - inet    → your IP address
+- man commandname - It gives manual page of that particular command. eg : man ls
+- In Linux networking, UP means the network interface is enabled and active. It meant that the network card inside Ubuntu is turned on and ready to send/receive network traffic.
 - 
 - 
 
