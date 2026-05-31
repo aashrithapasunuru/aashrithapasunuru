@@ -57,8 +57,8 @@
 - ctrl+x to exit from nano editing screen.
 | Command           | Who is allowed?                  |
 | ----------------- | -------------------------------- |
-| `chown file`      | Only root                        |
-| `sudo chown file` | normal user (but acting as root) |
+| chown file        | Only root                        |
+| sudo chown file   | normal user (but acting as root) |
 
 - 
 
