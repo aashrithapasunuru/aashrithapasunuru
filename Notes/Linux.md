@@ -52,7 +52,14 @@
 - inet    → your IP address
 - man commandname - It gives manual page of that particular command. eg : man ls
 - In Linux networking, UP means the network interface is enabled and active. It meant that the network card inside Ubuntu is turned on and ready to send/receive network traffic.
-- 
+- sudo ss -tulpn : to get the ports that ubuntu listens on.
+- stat filename : gives more detailed permissions of the file.
+- ctrl+x to exit from nano editing screen.
+| Command           | Who is allowed?                  |
+| ----------------- | -------------------------------- |
+| `chown file`      | Only root                        |
+| `sudo chown file` | normal user (but acting as root) |
+
 - 
 
 
