@@ -55,11 +55,25 @@
 - sudo ss -tulpn : to get the ports that ubuntu listens on.
 - stat filename : gives more detailed permissions of the file.
 - ctrl+x to exit from nano editing screen.
-| Command           | Who is allowed?                  |
-| ----------------- | -------------------------------- |
-| chown file        | Only root                        |
-| sudo chown file   | normal user (but acting as root) |
+- chown file  -  Only root. A normal user wants to change ownership of file from normal to root.
+- sudo chown file  - normal user (but temporary acting as root) wants to change ownership to another user.
+- su user - switch user .
 
+- ** common directories **:
+  1. /etc :  commonplace location to store system files that are used by your operating system. Contains user accounts, network settings and ssh coonfiguration. 
+  2. /var : This folder stores data that is frequently accessed or written by services or applications running on the system. It contains logs and runtime data . Eg : /var/log, /var/www , /var/tmp. 
+  3. /root : home directory of the root user.
+  4. /tmp : Store data that is only needed to be accessed once or twice. Similar to the memory on your computer, once the computer is restarted, the contents of this folder are cleared out.
+  5. /bin : Contains basic commands needed for all users. eg: ls, cp, mv, cat
+  6. /sbin : System administration commands . Used by root /admin  only . eg : reboot , ipconfig, fdisk.
+  7. /home : Each user gets personal home directory. eg /home/user1 , /home/user2
+  8. /usr : User programs . It contains installed software. eg : /usr/bin ( user commands ) , /usr/data ( shared data ) , /usr/lib ( libraries).
+  9. /opt : optional software : Used for installing third party apps.
+  10. /dev : represents hardware . eg : /dev/sda - hard disk , /dev/usb : usb devices.
+  11. /proc : processes information (virtual) : Not real files, generated in memory.
+  12. /sys : Hardware and kernel information. Used to interact with hardware and kernel.
+  13. /boot : Boot files. Contains system startup files. kernel and bootloader.
+  14.  
 - 
 
 
