@@ -167,6 +167,15 @@ API traffic
 
 Area where normal applications run with limited permissions.
 
+- | Symptom | Likely Area |
+| ---------- | ---------- |
+| IP works, domain doesn't | DNS |
+| Can't reach anything | Network connectivity |
+| Website loads slowly | Network / Server / DNS |
+| Browser shows certificate warning | SSL/TLS |
+| Can ping but can't browse | DNS, proxy, browser configuration |
+
+
 - Kernel Space
 
 Protected area where the operating system core runs with full hardware access.
