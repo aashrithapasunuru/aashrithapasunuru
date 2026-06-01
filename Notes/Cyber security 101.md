@@ -202,6 +202,15 @@ Real Cybersecurity Relevance
 - Decimal system - base 10 - 0 to 9
 - Hexadecimal system- base 16- 0 to F. Every 4 binary digits (bits) can be grouped as one hexadecimal digit.
 - Colors-- RGB- RED ,GREEN ,BLUE.
+
+- | Symptom | Likely Area |
+| --------- | ----------- |
+| IP works, domain doesn't | DNS |
+| Can't reach anything | Network connectivity |
+| Website loads slowly | Network / Server / DNS |
+| Browser shows certificate warning | SSL/TLS |
+| Can ping but can't browse | DNS, proxy, browser configuration |
+
 - 
 
 
