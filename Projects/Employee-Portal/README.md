@@ -21,5 +21,4 @@ A beginner project created to learn:
 - Authentication
 - Post requests
 - Reading CSV files
-- 
-- 
+  
