@@ -9,7 +9,7 @@ A beginner project created to learn:
 - Authentication
 - CSV Data storage
 
-  ## Features
+ ## Features
 - Home page
 - Signup page
 - Login page
