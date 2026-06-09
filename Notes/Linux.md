@@ -74,7 +74,7 @@
   12. /sys : Hardware and kernel information. Used to interact with hardware and kernel.
   13. /boot : Boot files. Contains system startup files. kernel and bootloader.
   14.  
-- 
+- sudo ufw status - To check the firewall status. 
 
 
 
