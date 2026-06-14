@@ -37,7 +37,7 @@ telemetry collection in a realistic captive portal workflow.
   - User-Agent Parsing
   - ngrok
     
-  - # Workflow
+  # Workflow
   - User scans a QR code.
   - The captive portal opens in a web browser.
   - User optionally enters a name.
