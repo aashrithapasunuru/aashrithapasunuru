@@ -46,7 +46,7 @@ telemetry collection in a realistic captive portal workflow.
   - A unique WIFI session ID is generated.
   - Connection details are stored in SQLite.
   - User is redirected to a success page displaying connection information.
-  - 
+    
  
   # Architecture
   
@@ -135,6 +135,5 @@ telemetry collection in a realistic captive portal workflow.
  
   **Disclaimer**
   
-    This project is intended for educational and demonstration purposes only. It simulates a captive portal workflow and does not provide actual WiFi authentication, authorization, or network access control
-  - functionality.
+    This project is intended for educational and demonstration purposes only. It simulates a captive portal workflow and does not provide actual WiFi authentication, authorization, or network access control functionality.
    
