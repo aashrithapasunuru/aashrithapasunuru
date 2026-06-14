@@ -36,7 +36,7 @@ telemetry collection in a realistic captive portal workflow.
   - Geolocation API
   - User-Agent Parsing
   - ngrok
-  - 
+    
   - # Workflow
   - User scans a QR code.
   - The captive portal opens in a web browser.
@@ -46,8 +46,9 @@ telemetry collection in a realistic captive portal workflow.
   - A unique WIFI session ID is generated.
   - Connection details are stored in SQLite.
   - User is redirected to a success page displaying connection information.
+  - 
  
-  **Architecture**
+  # Architecture
   
     QR Code
       ↓
@@ -61,8 +62,9 @@ telemetry collection in a realistic captive portal workflow.
       ↓
     Success Page
  
-  - # Logged Information
-  - The application stores
+  # Logged Information
+    
+    The application stores
  
   - Timestamp
   - IP Address
@@ -73,6 +75,7 @@ telemetry collection in a realistic captive portal workflow.
   - Generated wifi session ID
   - Latitude and Longitude Coordinates
   - User-Agent string
+    
  
   # Skills Demonstrated
 
@@ -106,6 +109,7 @@ telemetry collection in a realistic captive portal workflow.
   - Foundations of Security Information and Event Management(SIEM) data generation
  
   **SOC Analyst Relevance**
+  
   This project demonstrates several concepts commonly encountered in Security Operations Centers(SOC),
   including:
   - Log generation and analysis
@@ -115,8 +119,10 @@ telemetry collection in a realistic captive portal workflow.
   - Investigation of connection metadata
   - Audit trail creation
   - Understanding how network access events are recorded and monitored
+    
  
   **Network Analyst Relevance**
+  
   This project also helps build familiarity with:
   - Network access workflows
   - Client connectivity processes
@@ -125,9 +131,10 @@ telemetry collection in a realistic captive portal workflow.
   - Public network access architectures
   - User onboarding mechanisms
   - Connection event monitoring
+    
  
-  - **Disclaimer**
-  - This project is intended for educational and demonstration purposes only. It simulates a captive
-  - portal workflow and does not provide actual WiFi authentication, authorization, or network access control
+  **Disclaimer**
+  
+    This project is intended for educational and demonstration purposes only. It simulates a captive portal workflow and does not provide actual WiFi authentication, authorization, or network access control
   - functionality.
    
